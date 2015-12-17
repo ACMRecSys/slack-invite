@@ -1,5 +1,8 @@
-Slack Invite Automation
+Slack Invite Automation for ACM RecSys
 ------------
+
+This is repository duplicate of [slack-invite-automation](https://github.com/outsideris/slack-invite-automation)
+
 
 A tiny web application to invite a user into your slack team.
 
